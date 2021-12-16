@@ -1,0 +1,62 @@
+body {
+    background-color: ivory;
+}
+
+.colorlink {
+    color: rgb(79, 49, 212);
+}
+
+li {
+    font-weight: normal;
+    font-size: 18px;
+}
+
+.listheader {
+    font-weight: bold;
+    font-size:22px;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: royalblue;
+}
+
+a {
+    font-style: italic;
+}
+
+h2 {
+    text-decoration: underline;
+    font-size: 32px;
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.contactinfo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.copyright {
+    font-size: 10px;
+}
+
+.center {
+    text-align: center;
+}
+
+.nounderline {
+    text-decoration: none;
+}
+
+.backtotop {
+    font-size: 16px;
+}
+
+.subheader {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 22px;
+}
